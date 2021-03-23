@@ -1,4 +1,4 @@
-# Live Preview:- https://musify-listen.netlify.app/
+# Live Preview:- https://musify-play.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
